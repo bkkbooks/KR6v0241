@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6v0241/v1
+canonical_location: https://kanripo.org/bkk/KR6v0241/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 王貳郎法義三百人等造像記
+  identifiers:
+    alt_id:
+    - I01n0046
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0046.xml
+    old_id: I01n0046
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0241_000.yaml, hash: 'sha256:917cda98eb484d1749b461f6ebabfcfb89238fdbb8fba887c0e7493985baec7d'}
+  - {seq: 1, filename: KR6v0241_001.yaml, hash: 'sha256:f007e906b2ea294ed2f23d1b2ecf5aea157673c4b8ed4662aa95b33d161363c2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0241_001.markers.yaml, hash: 'sha256:3b3a63a32848628db46e2ee77721a79ff7217b98f54d7c129c970d071167ce53'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0241_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 929
+  label: 王貳郎法義三百人等造像記
+  type: juan
+  level: 1
+hash: sha256:5daaff64152d77bdfc22a4b67f6bc85e65846a2c5ba324866725c4dd7b8390bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

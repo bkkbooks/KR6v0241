@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0241/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 王貳郎法義三百人等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0046.xml
+    old_id: I01n0046
+hash: sha256:917cda98eb484d1749b461f6ebabfcfb89238fdbb8fba887c0e7493985baec7d
