@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0241_000.yaml, hash: 'sha256:917cda98eb484d1749b461f6ebabfcfb89238fdbb8fba887c0e7493985baec7d'}
-  - {seq: 1, filename: KR6v0241_001.yaml, hash: 'sha256:f007e906b2ea294ed2f23d1b2ecf5aea157673c4b8ed4662aa95b33d161363c2'}
+  - {seq: 1, filename: KR6v0241_001.yaml, hash: 'sha256:c209fc9bf8d410ab4c9db33b14e79646f812e7755b4a20a18ccf4c0168f34d2e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0241_001.markers.yaml, hash: 'sha256:3b3a63a32848628db46e2ee77721a79ff7217b98f54d7c129c970d071167ce53'}
+  - {seq: 0, role: markers, filename: assets/KR6v0241_000.markers.yaml, hash: 'sha256:c09d88a07b454e650f780d7bd629df28abd3bc77c6c965292df6998c97652d67'}
+  - {seq: 1, role: markers, filename: assets/KR6v0241_001.markers.yaml, hash: 'sha256:e076088d6432f04bca43dda9a3a3716aec915042c47602b99696ecb1e1dc46ec'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 王貳郎法義三百人等造像記
   type: juan
   level: 1
-hash: sha256:5daaff64152d77bdfc22a4b67f6bc85e65846a2c5ba324866725c4dd7b8390bd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fc48676fc7bbdea85d2a5fb9cfe3cd4288d8ff82b1b6bb3e35cca0a77ceda624
