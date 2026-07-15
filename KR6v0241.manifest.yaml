@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0241/v1
 canonical_location: https://kanripo.org/bkk/KR6v0241/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 王貳郎法義三百人等造像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0241_000.yaml, hash: 'sha256:917cda98eb484d1749b461f6ebabfcfb89238fdbb8fba887c0e7493985baec7d'}
-  - {seq: 1, filename: KR6v0241_001.yaml, hash: 'sha256:c209fc9bf8d410ab4c9db33b14e79646f812e7755b4a20a18ccf4c0168f34d2e'}
+  - {seq: 1, filename: KR6v0241_001.yaml, hash: 'sha256:9b7983c8f38b45bd40c1783b278010eb78cf412adc9e56da48f5f39b91a7443e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0241_000.markers.yaml, hash: 'sha256:c09d88a07b454e650f780d7bd629df28abd3bc77c6c965292df6998c97652d67'}
-  - {seq: 1, role: markers, filename: assets/KR6v0241_001.markers.yaml, hash: 'sha256:e076088d6432f04bca43dda9a3a3716aec915042c47602b99696ecb1e1dc46ec'}
+  - {seq: 1, role: markers, filename: assets/KR6v0241_001.markers.yaml, hash: 'sha256:c24c385bc1062dd2bcec3f0434af67048e606aad075adcce301b7c910e3a6bd0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 王貳郎法義三百人等造像記
   type: juan
   level: 1
-hash: sha256:fc48676fc7bbdea85d2a5fb9cfe3cd4288d8ff82b1b6bb3e35cca0a77ceda624
+hash: sha256:28bd635b77356a9f4f32e7a7bd33889fce1274d4754843aa039a8f9d570f68a7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
